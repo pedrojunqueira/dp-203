@@ -12,4 +12,10 @@ https://docs.microsoft.com/en-us/azure/virtual-network/network-overview
 
 https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-access-control
 
-- Data Architecture Lambda, Kappa etc.
+- Big Data Architecture Lambda, Kappa etc.
+
+https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/
+
+## Databricks concepts
+
+- How to connect databrics to your object store, blog or data lake.
